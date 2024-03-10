@@ -6,3 +6,19 @@
 
 # Home Page
 ![Alt text](https://res.cloudinary.com/dfzg6gkoh/image/upload/v1710057611/ctgkd0ubtidhuco5d2yx.png)
+
+
+
+## Setup .env file
+
+
+
+```bash
+PORT=5000
+MONGO_URI=
+GITHUB_API_KEY=
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+CLIENT_BASE_URL=
+```
+
